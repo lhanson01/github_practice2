@@ -32,7 +32,9 @@ random_numbers3 <- readRDS(
 
 ```{r, random-numbers1-histogram}
 #| fig.cap = "First set of random numbers"
+
 hist(random_numbers1, col ="gray25")
+
 ```
 
 # Distribution 2
